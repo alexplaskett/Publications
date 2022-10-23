@@ -25,3 +25,5 @@
 [12] Fabian Beterke Alex Plaskett, Georgi Geshev. Big Game Fuzzing: Pwn2own Safari. https://github.com/alexplaskett/Publications/blob/master/mwri-t2-big-game-fuzzing-pwn2own-safari-final.pdf, 2018. T2 2018. 
 
 [13] Alex Plaskett, CVE-2020-9967: Apple 6LowPan and CodeQL. https://github.com/alexplaskett/Publications/raw/master/CVE-2020-9967-6LowPan-CodeQL.pdf, 2020. 
+
+[14] Alex Plaskett, POC2021 – Pwning the Windows 10 Kernel with NTFS and WNF Slides. https://research.nccgroup.com/wp-content/uploads/2021/11/poc_2021_pwning_the_windows10_kernel_final_slides.pdf
