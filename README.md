@@ -26,4 +26,8 @@
 
 [13] Alex Plaskett, CVE-2020-9967: Apple 6LowPan and CodeQL. https://github.com/alexplaskett/Publications/raw/master/CVE-2020-9967-6LowPan-CodeQL.pdf, 2020. 
 
-[14] Alex Plaskett, POC2021 – Pwning the Windows 10 Kernel with NTFS and WNF Slides. https://research.nccgroup.com/wp-content/uploads/2021/11/poc_2021_pwning_the_windows10_kernel_final_slides.pdf
+[14] Alex Plaskett, POC2021 – Pwning the Windows 10 Kernel with NTFS and WNF Slides. https://research.nccgroup.com/wp-content/uploads/2021/11/poc_2021_pwning_the_windows10_kernel_final_slides.pdf, 2021. POC2021. 
+
+[15] Alex Plaskett, Cedric Halbronn, Aaron Adams, Catalin Visinescu. Pwn2Own 2021 - Remotely Exploiting 3 Embedded Devices. https://research.nccgroup.com/wp-content/uploads/2022/07/pwn2own-3-bugs-technical-external.pdf, NCC Con Europe 2022. 
+
+[16] Alex Plaskett, Cedric Halbronn. Toner Deaf – Printing your next persistence. https://research.nccgroup.com/wp-content/uploads/2022/10/toner-deaf-hexacon-2022-release.pdf, 2022. Hexacon 2022.  
