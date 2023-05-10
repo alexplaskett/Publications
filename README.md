@@ -31,3 +31,5 @@
 [15] Alex Plaskett, Cedric Halbronn, Aaron Adams, Catalin Visinescu. Pwn2Own 2021 - Remotely Exploiting 3 Embedded Devices. https://research.nccgroup.com/wp-content/uploads/2022/07/pwn2own-3-bugs-technical-external.pdf, NCC Con Europe 2022. 
 
 [16] Alex Plaskett, Cedric Halbronn. Toner Deaf – Printing your next persistence. https://research.nccgroup.com/wp-content/uploads/2022/10/toner-deaf-hexacon-2022-release.pdf, 2022. Hexacon 2022.  
+
+[17] Alex Plaskett, McCaulay Hudson - Your Not so "Home" Office - Soho Hacking at Pwn2Own. https://research.nccgroup.com/wp-content/uploads/2023/04/D1T1-Your-Not-So-Home-Office-Soho-Hacking-at-Pwn2Own-McCaulay-Hudson-Alex-Plaskett.pdf, 2023. HITB Amsterdam. 
